@@ -1,0 +1,7 @@
+$primary-color: hsl(0, 50%, 50%);
+$contrast-color: hsl(240, 50%, 50%);
+$taste-the-rainbow: hsl(120, 50%, 50%);
+
+@mixin background {
+    background-color: $taste-the-rainbow;
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAK;EACD,gBAAgB,ECHJ,OAAgB;;ADMhC,EAAG;ECDC,gBAAgB,EAHA,OAAkB;EDOlC,QAAQ;IACJ,gBAAgB,ECTP,OAAkB",
+"sources": ["../scss/app.scss","../scss/_colors.scss"],
+"names": [],
+"file": "app.css"
+}
